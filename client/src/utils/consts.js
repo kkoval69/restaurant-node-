@@ -1,0 +1,6 @@
+export const ADMIN_ROUTE = '/admin'
+export const LOGIN_ROUTE = '/login'
+export const REGISTRATION_ROUTE = '/registration'
+export const GLAVN_ROUTE = '/'
+export const IZBR_ROUTE = '/izbr'
+export const GAME_ROUTE = '/game'
